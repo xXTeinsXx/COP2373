@@ -1,6 +1,6 @@
 # Programing Concepts II [COP2373]
 
-My Programming Concepts II projects. This repository contains all the programs I've created for my Programming Concepts II class. It also includes all of the technical design documents tied to every program.
+My Programming Concepts II projects. This repository contains all the programs I've created for my Programming Concepts II class. It also includes all of the technical design documents tied to every program. [Work in progress]
 
 **Projects**
 
