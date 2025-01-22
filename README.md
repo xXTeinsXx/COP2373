@@ -7,3 +7,5 @@ My Programming Concepts II projects. This repository contains all the programs I
 * **Week 2:**
     * **Cinema Preorder app:** Sells a max of 4 tickets per buyer till a max of 20 tickets are sold.
     * **Cinema Preorder app technical documentation:** The technical document detailing the program and how it works.
+
+Projects will be added as they are developed
